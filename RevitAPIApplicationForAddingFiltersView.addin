@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPIApplicationForAddingFiltersView.dll"</Assembly>
+		
+		<AddInId>8D377D25-CBF9-475C-9E63-F5E84DE6922D</AddInId>
+		<FullClassName>RevitAPIApplicationForAddingFiltersView.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>RevitAPIApplicationForAddingFiltersView</Text>
+	</AddIn>
+</RevitAddIns>
